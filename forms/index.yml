@@ -1,0 +1,26 @@
+### YamlMime:Hub
+title: Microsoft Forms 系統管理員
+summary: 有了 Microsoft Forms，您可以輕鬆地建立問卷、測驗、投票和其他類型的表單。 您可以使用幾乎任何網頁瀏覽器或行動裝置，邀請人員回應您的表單、在提交時查看即時結果、使用內建的分析來評估回應，以及將結果匯出至 Excel 進行其他分析或評分。 表單通常可供 Office 365 教育版客戶、Microsoft 365 Apps 商務版客戶，以及擁有 Microsoft 帳戶 (Hotmail、Live 或 Outlook.com) 的客戶使用。
+brand: m365
+metadata:
+  title: Microsoft Forms 系統管理員
+  description: Microsoft Forms 系統管理員概觀
+  ms.service: Forms Admin
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 11/03/2021
+  localization_priority: Priority
+additionalContent:
+  sections:
+    - title: IT 專業人員適用
+      items:
+        - title: 系統管理員
+          summary: 了解 Forms 系統管理員設定，以及如何設定表單以滿足貴組織的需求
+          url: /microsoft-forms/administrator-settings-microsoft-Forms
+    - title: 其他聽眾
+      items:
+        - title: 使用者
+          summary: 建立、傳送和分析表單、測驗或投票
+          url: 'https://support.microsoft.com/forms'
